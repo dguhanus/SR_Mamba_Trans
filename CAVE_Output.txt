@@ -1,0 +1,15 @@
+CAVE Training Output:
+Epoch: 100/100 training loss: 0.0019015
+2304.905505180359
+Checkpoint saved to Trained_model/100.pth
+             learning rate:º0.001000
+             validate loss: 0.0019226
+NVIDIA A100-SXM4-40GB
+
+=== Test Results ===
+PSNR : 52.272 dB
+SSIM : 0.9995
+SAM  : 3.5366°
+ERGAS: 4.1822
+
+Total number of trainable parameters: 112,741
